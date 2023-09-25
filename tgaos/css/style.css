@@ -1,0 +1,45 @@
+header {
+    font-size: 30px;
+	color: white;
+	background-color: #000000;
+	text-align: left;
+	font-family: Lato;
+}
+
+h1 {
+	color: #000000;
+	font-family: Merriweather;
+}
+
+.h1 {
+	color: #000000;
+	font-family: Merriweather;
+}
+
+h2 {
+	color: #000000;
+	font-family: Merriweather;
+}
+
+p {
+    font-size: 20px;
+	color: #000000;
+	font-family: Raleway;
+}
+
+.p {
+    font-size: 20px;
+	color: #000000;
+	font-family: Raleway;
+}
+
+a {
+    font-size: 18px;
+	color: #000000;
+	font-family: Raleway;
+}
+
+#tecnicatura {
+	text-align: center;
+}
+
